@@ -61,7 +61,7 @@ body{
 }
 .farewell-img-background{
 	height:100px;
-	width: 100%;
+	width: 80%;
 	background-size: cover;
 	background-position: center;
 	background-repeat: no-repeat;
@@ -78,7 +78,7 @@ body{
     padding-left: 3px;
     padding-right: 3px;
     
-    background-color: black;
+    background-color: transparent;
     position: relative;
     overflow: hidden;
     color: white;
@@ -94,14 +94,22 @@ body{
 }
 .portfolio-item-wrapper{
 	position: relative;
+	padding-bottom: 15px;
 }
 
 .portfolio-img-background{
 	height:330px;
-	width: 100%;
+	width: 96%;
 	background-size: cover;
 	background-position: center;
 	background-repeat: no-repeat;
+
+	padding-top: 20px;
+    padding-bottom: 20px;
+    padding-left: 3px;
+    padding-right: 3px;
+
+    
 
 }
 .img-text-wrapper{
