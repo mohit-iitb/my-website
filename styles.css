@@ -39,13 +39,13 @@ body{
 	/*border-bottom: 1px solid black;*/
 }
 .nav-link-wrapper a:hover {
-	color: black;
+	color: yellow;
 }
 .active{
 	/*border-bottom: 1px solid black;*/
 }
 .active a {
-	color: black !important;
+	color: yellow !important;
 }
 /*farewell styles*/
 .farewell{
